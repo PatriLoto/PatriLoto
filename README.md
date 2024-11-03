@@ -1,6 +1,6 @@
 ## Hi there lovely humans 👋
 
-<!--
+
 
 **About Me 👋**
 
@@ -20,4 +20,3 @@ Community Involvement 🤝
 - 👯 I'm an active member of several open science communities: R-Ladies | The Carpentries | Latin-R | OLS | The Turing Way
 - 📫 How to reach me: @patriloto (twitter)
 - 😄 Pronouns: she/her
--->
