@@ -18,5 +18,5 @@
 - 🌱 I’m currently collaborating with the organization of [LatinR](https://latinr.org/en/sobre/equipo/) and with the Book Dash event (November edition) hosted by The Turing Way.
 - 🤝 I’m learning Python and about teaching techniques for virtual environments.
 - 👯 I'm an active member of several open science communities: R-Ladies | Latin-R | The Turing Way | OLS | The Carpentries 
-- 📫 How to reach me: @patriloto(twitter) |  [LinkedI](https://www.linkedin.com/in/patricia-loto/)
+- 📫 How to reach me: [Twitter](@patriloto) | [LinkedIn](https://www.linkedin.com/in/patricia-loto/)
 - 😄 Pronouns: she/her
