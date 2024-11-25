@@ -7,7 +7,7 @@
 
 **💼 Experience**
 
-- Metadocencia  [Accesibility, Training and Community Teams](https://www.metadocencia.org/en/equipo/): I work to guarantee and encourage the development of accessible settings that support everyone's equal participation in the Metadocencia community | I teach the open source module of the open science training | I've been working on projects like the Mapping of Communities, Organizations, and Open Science Resources in Latin America.
+- Metadocencia  [Accesibility, Training and Community Teams](https://www.metadocencia.org/en/equipo/): I work to guarantee and encourage the development of accessible settings that support everyone's equal participation in the Metadocencia community | I teach the [open source module](https://zenodo.org/records/14047967) of the open science training | I've been working on projects like the Mapping of Communities, Organizations, and Open Science Resources in Latin America.
 
 - Teaching Assistant: I've been teaching computational tools to students and researchers at the Faculty of Agrarian Sciences of the National University of the Northeast(UNNE).
 - Data Science Educator: I've taught data analysis courses with R to people with no programming background in various workshops and conferences.
