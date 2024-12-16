@@ -14,7 +14,7 @@
 
 **✨ Projects and Communities**
 
-- 🔭 I'm currently working on the following projects: [Science Core Bilingual Development](https://github.com/ScienceCore/climaterisk) and [Accessible Open Science](https://www.metadocencia.org/proyecto/nasa-spanish/project)
+- 🔭 I'm currently working on the following projects: [Science Core Bilingual Development](https://github.com/ScienceCore/climaterisk) and [Accessible Open Science](https://www.metadocencia.org/proyecto/nasa-spanish/)
 - 🌱 I’m currently collaborating with the organization of [LatinR](https://latinr.org/en/sobre/equipo/) and with the Book Dash event (November edition) hosted by The Turing Way.
 - 🤝 I’m learning Python and about teaching techniques for virtual environments.
 - 👯 I'm an active member of several open science communities: R-Ladies | Latin-R | The Turing Way | OLS | The Carpentries 
