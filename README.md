@@ -20,3 +20,7 @@
 - 👯 I'm an active member of several open science communities: R-Ladies | Latin-R | The Turing Way | OLS | The Carpentries 
 - 📫 How to reach me: [Bluesky](https://bsky.app/profile/patriloto.bsky.social) | [LinkedIn](https://www.linkedin.com/in/patricia-loto/)
 - 😄 Pronouns: she/her
+
+
+* My github Stats:
+  https://github-readme-stats.vercel.app/api?username=patriloto&count_private=true&show_icons=true&theme=radical
