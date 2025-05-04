@@ -4,6 +4,8 @@
 **About Me 👋**
 
 ✨I'm a passionate IT person and educator with a strong focus on open science and teaching the R language to people with no programming background. I hold a Bachelor's degree in Information Systems and a Diploma in Data Science, Machine Learning, and its Applications from the FAMAF of the National University of Cordoba. I'm also certified to teach programming by The Carpentries and am an RStudio Tidyverse Instructor.
+- Pronouns: she/her
+
 
 **💼 Experience**
 
@@ -16,9 +18,13 @@
 - 🔭 In the last months I've been working on the following projects: [Science Core Bilingual Development](https://github.com/ScienceCore/climaterisk) and [Accessible Open Science](https://www.metadocencia.org/proyecto/nasa-spanish/)
 - 🌱 In the last year I have been collaborating with the organization of [LatinR](https://latinr.org/en/sobre/equipo/) and with the Book Dash (November edition), event hosted by [The Turing Way](https://github.com/the-turing-way/the-turing-way).
 - 🤝 I’m learning Python and about teaching techniques for virtual environments.
-- 👯 I'm an active member of several open science communities: R-Ladies | Latin-R | The Turing Way | OLS | The Carpentries 
-- 📫 How to reach me: [Bluesky](https://bsky.app/profile/patriloto.bsky.social) | [LinkedIn](https://www.linkedin.com/in/patricia-loto/)
-- 😄 Pronouns: she/her
+- 👯 I'm an active member of several open science communities: R-Ladies | Latin-R | The Turing Way | OLS | Metadocencia
+
+**📚 Conferences**
+- March: I've participated at [Kiphu](https://khipu.ai/) and [DISC Unconference_2025](https://numfocus.medium.com/disc-unconference-2025-0d08bf918c95)
+
+- **📫 How to reach me** [Bluesky](https://bsky.app/profile/patriloto.bsky.social) | [LinkedIn](https://www.linkedin.com/in/patricia-loto/)
+
 
 **😎 My GitHub Stats** 
 
