@@ -23,7 +23,7 @@
 **📚 Conferences**
 - March: I've participated at [Kiphu](https://khipu.ai/) and [DISC Unconference_2025](https://numfocus.medium.com/disc-unconference-2025-0d08bf918c95)
 
-- **📫 How to reach me** [Bluesky](https://bsky.app/profile/patriloto.bsky.social) | [LinkedIn](https://www.linkedin.com/in/patricia-loto/)
+**📫 How to reach me** [Bluesky](https://bsky.app/profile/patriloto.bsky.social) | [LinkedIn](https://www.linkedin.com/in/patricia-loto/)
 
 
 **😎 My GitHub Stats** 
