@@ -21,7 +21,7 @@
 - 👯 I'm an active member of several open science communities: R-Ladies | Latin-R | The Turing Way | OLS | Metadocencia
 
 **📚 Conferences**
-- March: I've participated at [Kiphu](https://khipu.ai/) and [DISC Unconference_2025](https://numfocus.medium.com/disc-unconference-2025-0d08bf918c95)
+- March: I've participated in [Kiphu(Latin American Meeting In Artificial Intelligence)](https://khipu.ai/) and the 4th edition of the [DISC Unconference](https://numfocus.medium.com/disc-unconference-2025-0d08bf918c95). 
 
 **📫 How to reach me** [Bluesky](https://bsky.app/profile/patriloto.bsky.social) | [LinkedIn](https://www.linkedin.com/in/patricia-loto/)
 
