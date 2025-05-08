@@ -15,9 +15,9 @@
 **✨ Projects and Communities**
 
 - 🔭 In the last months I've been working on the following projects: [Science Core Bilingual Development](https://github.com/ScienceCore/climaterisk) and [Accessible Open Science](https://www.metadocencia.org/proyecto/nasa-spanish/)
-- 🌱 In the last year I have been collaborating with the organization of [LatinR](https://latinr.org/en/sobre/equipo/) and with the Book Dash (November edition), event hosted by [The Turing Way](https://github.com/the-turing-way/the-turing-way).
-- 🤝 I’m learning Python and about teaching techniques for virtual environments.
-- 👯 I'm an active member of several open science communities: R-Ladies | Latin-R | The Turing Way | OLS | Metadocencia
+- 🌱 In the last year I've collaborated with  the organization of [LatinR](https://latinr.org/en/sobre/equipo/), and I was part of the Book Dash Planning Committee (November edition), a bi-annual edit-a-thon organized by [The Turing Way](https://github.com/the-turing-way/the-turing-way).
+- 🤝 I’m learning about teaching techniques for virtual environments.
+- 👯 I'm an active member of several open science communities: R-Ladies+ | Latin-R | The Turing Way | OLS | Metadocencia
 
 **📚 Conferences**
 - March: I've participated in [Kiphu(Latin American Meeting In Artificial Intelligence)](https://khipu.ai/) and the 4th edition of the [DISC Unconference](https://numfocus.medium.com/disc-unconference-2025-0d08bf918c95). 
