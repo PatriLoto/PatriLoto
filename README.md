@@ -21,7 +21,8 @@
 
 
 **📚 Conferences**
-- March: I've participated in [Kiphu(Latin American Meeting In Artificial Intelligence)](https://khipu.ai/) and the 4th edition of the [DISC Unconference](https://numfocus.medium.com/disc-unconference-2025-0d08bf918c95). 
+- March: I've participated in [Kiphu(Latin American Meeting In Artificial Intelligence)](https://khipu.ai/) and the 4th edition of the [DISC Unconference](https://numfocus.medium.com/disc-unconference-2025-0d08bf918c95).
+- September: I've attended at the [Research Software Engeneering Conference](https://rsecon25.society-rse.org/) and [R Dev Day](https://rsecon25.society-rse.org/r-dev-day-rsecon25/)
 
 **📫 How to reach me** [Bluesky](https://bsky.app/profile/patriloto.bsky.social) | [LinkedIn](https://www.linkedin.com/in/patricia-loto/)
 
