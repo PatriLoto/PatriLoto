@@ -11,6 +11,7 @@
 - In the last years I've been working in the [Accesibility, Training and Community Teams](https://www.metadocencia.org/en/equipo/) at Metadocencia, where my work had focus on guarantee and encourage the development of accessible settings that support everyone's equal participation in the Metadocencia community | I've also taught the [open source module](https://zenodo.org/records/14047967) of the [open science training](https://www.metadocencia.org/en/alta-ca/3-2024/) and I've worked in the [Mapping of Communities, Organizations, and Open Science Resources in Latin America](https://www.metadocencia.org/en/proyecto/mapeo-comunidades/) project, of which I'm a co-author.
 - Teaching Assistant: I've been teaching computational tools to students and researchers at the Faculty of Agrarian Sciences of the National University of the Northeast(UNNE).
 - Data Science Educator: I've taught data analysis courses with R to people with no programming background in various workshops and conferences.
+- Mentee at [OLS's Cohort 7](https://we-are-ols.org/posts/2023/07/17/ols-7-mapping-open-science-communities-LATAM/) and Mentor at [[OLS's Cohort 8](https://we-are-ols.org/openseeds/ols-8/projects-participants.html#creating-an-online-repository-for-open-collaboration-in-psychology).
 
 **✨ Projects and Communities**
 - 👩‍💼 Current Projects: Virtual assistant in open science with a focus on Latin America and [Template for a software management plan](https://github.com/PatriLoto/PGSoftware)
