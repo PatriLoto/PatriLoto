@@ -3,7 +3,7 @@
 
 **About Me 👋**
 
-✨I'm a passionate IT profesional and educator with a strong focus on Open Science and teaching the R language to people with no programming background. I hold a Bachelor's degree in Information Systems and a Diploma in Data Science, Machine Learning, and its Applications from the FAMAF of the National University of Cordoba. I'm also certified to teach programming by The Carpentries and am an RStudio Tidyverse Instructor. Pronouns: she/her
+✨I'm a passionate IT profesional and educator with a strong focus on Open Science and teaching the R language to people with no programming background. I hold a Bachelor's degree in Information Systems and a Diploma in Data Science, Machine Learning, and its Applications from the FAMAF of the National University of Córdoba. I'm also certified to teach programming by The Carpentries and am an RStudio Tidyverse Instructor. Pronouns: she/her
 
 
 **💼 Experience**
