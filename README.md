@@ -14,16 +14,17 @@
 - Mentee at [OLS's Cohort 7](https://we-are-ols.org/posts/2023/07/17/ols-7-mapping-open-science-communities-LATAM/) and mentor at [OLS's Cohort 8](https://we-are-ols.org/openseeds/ols-8/projects-participants.html#creating-an-online-repository-for-open-collaboration-in-psychology).
 
 **✨ Projects and Communities**
-- 👩‍💼 Current Projects: Virtual assistant in open science with a focus on Latin America and [Template for a software management plan](https://github.com/PatriLoto/PGSoftware)
+- 👩‍💼 Current Projects: Virtual assistant in open science with a focus on Latin America and [Template for a Software Management Plan](https://github.com/PatriLoto/PGSoftware)
 - 🔭 In the last year I've been working on the following projects: [Science Core Bilingual Development](https://github.com/ScienceCore/climaterisk) and [Accessible Open Science](https://www.metadocencia.org/proyecto/nasa-spanish/)
-- 🌱 In the last year I've collaborated with  the organization of [LatinR](https://latinr.org/en/sobre/equipo/), and I was part of the Book Dash Planning Committee (November edition), a bi-annual edit-a-thon organized by [The Turing Way](https://github.com/the-turing-way/the-turing-way).
-- 🤝 I’m learning about teaching techniques for virtual environments.
+- 🌱 In the last year I've collaborated with the organization of [LatinR](https://latinr.org/en/sobre/equipo/), and I was part of the Book Dash Planning Committee (November edition), a bi-annual edit-a-thon organized by [The Turing Way](https://github.com/the-turing-way/the-turing-way).
+- 🤝 I’m learning about teaching techniques for virtual environments and NLP with Python.
 - 👯 I'm an active member of several open science communities: R-Ladies+ | Latin-R | The Turing Way | OLS | Metadocencia
 
 
 **📚 Conferences**
 - March: I've participated in [Kiphu(Latin American Meeting In Artificial Intelligence)](https://khipu.ai/) and the 4th edition of the [DISC Unconference](https://numfocus.medium.com/disc-unconference-2025-0d08bf918c95).
-- September: I've attended at the [Research Software Engeneering Conference](https://rsecon25.society-rse.org/) and [R Dev Day](https://rsecon25.society-rse.org/r-dev-day-rsecon25/)
+- September: I've attended the [Research Software Engeneering Conference](https://rsecon25.society-rse.org/) and [R Dev Day](https://rsecon25.society-rse.org/r-dev-day-rsecon25/)
+- October: I'm organizing with some friend organizations an event to celebrate the [International Research  software Engineeering Day](https://www.meetup.com/es/rladies-resistencia-corrientes/events/311341010/?eventOrigin=group_upcoming_events)
 
 **📫 How to reach me** [Bluesky](https://bsky.app/profile/patriloto.bsky.social) | [LinkedIn](https://www.linkedin.com/in/patricia-loto/)
 
