@@ -15,7 +15,7 @@
 
 
 **✨ Projects and Communities**
-- 👩‍💼 Current Projects: Virtual assistant in open science with a focus on Latin America and [Template for a Software Management Plan](https://github.com/PatriLoto/PGSoftware)
+- 👩‍💼 Current Projects: [Virtual assistant in open science with a focus on Latin America](https://github.com/PatriLoto/asistente_virtual_CA) and [Template for a Software Management Plan](https://github.com/PatriLoto/PGSoftware)
 - 🔭 In the last year I've worked on the following projects: [Science Core Bilingual Development](https://github.com/ScienceCore/climaterisk) and [Accessible Open Science](https://www.metadocencia.org/proyecto/nasa-spanish/)
 - 🌱 In the last year I've collaborated with the organization of [LatinR](https://latinr.org/en/sobre/equipo/), and I was part of the Book Dash Planning Committee (November edition), a bi-annual edit-a-thon organized by [The Turing Way](https://github.com/the-turing-way/the-turing-way).
 - 🤝 I’m learning about teaching techniques for virtual environments and NLP with Python.
