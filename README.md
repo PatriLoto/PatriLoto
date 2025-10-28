@@ -3,15 +3,16 @@
 
 **About Me 👋**
 
-✨I'm a passionate IT professional and educator with a strong focus on Open Science and teaching the R language to people with no programming background. I hold a Bachelor's degree in Information Systems and a Diploma in Data Science, Machine Learning, and its Applications from the FAMAF of the National University of Córdoba. I'm also certified to teach programming by The Carpentries and am an RStudio Tidyverse Instructor. Pronouns: she/her
+✨I'm a passionate IT professional and educator with a strong focus on Open Science and teaching the R language to people with no programming background. I hold a Bachelor's degree in Information Systems and a Diploma in Data Science, Machine Learning, and its Applications from the FAMAF of the National University of Córdoba. 
 
 
 **💼 Experience**
 
 - Metadocencia: In recent years I've worked in the [Accessibility, Training and Community Teams](https://www.metadocencia.org/en/equipo/), where my work has focused on ensuring and promoting the development of accessible settings that support everyone's equal participation in the Metadocencia community | I've also taught the [open source module](https://zenodo.org/records/14047967) of the [open science training](https://www.metadocencia.org/en/alta-ca/3-2024/) and I've contributed to the [Mapping of Communities, Organizations, and Open Science Resources in Latin America](https://www.metadocencia.org/en/proyecto/mapeo-comunidades/) project, of which I'm a co-author.
 - Open Life Science (OLS): Mentee at [Cohort 7](https://we-are-ols.org/posts/2023/07/17/ols-7-mapping-open-science-communities-LATAM/) and mentor at [Cohort 8](https://we-are-ols.org/openseeds/ols-8/projects-participants.html#creating-an-online-repository-for-open-collaboration-in-psychology).
-- Teaching Assistant: I've been teaching computational tools to students and researchers at the Faculty of Agrarian Sciences of the National University of the Northeast(UNNE).
+- Faculty of Agrarian Sciences of the National University of the Northeast(UNNE): I've been teaching computational tools to students and researchers.
 - Data Science Educator: I've taught data analysis courses with R to people with no programming background in various workshops and conferences.
+- RStudio Tidyverse Instructor, and I'm also certified to teach programming by The Carpentries.
 
 
 **✨ Projects and Communities**
