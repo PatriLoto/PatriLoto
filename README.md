@@ -33,4 +33,7 @@
 
 **😎 My GitHub Stats** 
 
-![My github Stats](https://github-readme-stats.vercel.app/api?username=patriloto&count_private=true&show_icons=true&theme=radical)
+![My github Stats](https://github-readme-stats.vercel.app/api?username=patriloto&count_private=true&show_icons=true&theme=radical) # Instancia alternativa
+![My github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=patriloto&count_private=true&show_icons=true&theme=radical)
+
+
