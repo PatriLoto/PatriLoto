@@ -35,4 +35,9 @@
 
 ![My github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=patriloto&count_private=true&show_icons=true&theme=radical)
 
+<h1 align="center">Hi 👋, I'm Patricia Loto</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F724A9&center=true&width=435&lines=R+Enthusiast;Open+Science+Advocate;Teaching+%26+Learning" alt="Typing SVG" />
+</h3>
+
 
