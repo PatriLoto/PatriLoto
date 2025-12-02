@@ -1,10 +1,10 @@
-<h1 align="center">Hi there lovely humans👋, I'm Patricia Loto</h1>
+<h1 align="center">👋 there lovely humans, I'm Patricia Loto</h1>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F724A9&center=true&width=435&lines=R+Enthusiast;Open+Science+Advocate;Teaching+%26+Learning" alt="Typing SVG" />
 </h3>
 
 
-**About Me 👋**
+**About Me**
 
 ✨I'm a passionate IT professional and educator with a strong focus on Open Science and teaching the R language to people with no programming background. I hold a Bachelor's degree in Information Systems and a Diploma in Data Science, Machine Learning, and its Applications from the FAMAF of the National University of Córdoba. 
 
