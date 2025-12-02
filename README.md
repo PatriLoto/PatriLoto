@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hi there, lovely humans. I'm Patricia Loto</h1>
 <h3 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27C93F&center=true&width=435&lines=R+Enthusiast;Open+Science+Advocate;Teaching+%26+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&width=435&lines=R+Enthusiast;Open+Science+Advocate;Teaching+%26+Learning" alt="Typing SVG" />
 </h3>
 
 
