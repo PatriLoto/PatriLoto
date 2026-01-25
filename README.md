@@ -19,7 +19,7 @@
 
 
 **✨ Projects and Communities**
-- I'm coordinating the [RSE-Argentina community]([https://github.com/rse-argentina](https://rse-argentina.github.io/)
+- I'm coordinating the [RSE-Argentina community](https://rse-argentina.github.io/)
 - 👩‍💼 Current Projects: [Virtual assistant in open science with a focus on Latin America](https://github.com/PatriLoto/asistente_virtual_CA) and [Template for a Software Management Plan](https://github.com/PatriLoto/PGSoftware)
 - 🔭 Previous Projects: [Science Core Bilingual Development](https://github.com/ScienceCore/climaterisk) and [Accessible Open Science](https://www.metadocencia.org/proyecto/nasa-spanish/)
 - 🌱 Previous Collaborations: I've collaborated with the organization of [LatinR - 2025](https://latinr.org/en/sobre/equipo/), and I was part of the Book Dash Planning Committee (2024 edition) organized by [The Turing Way](https://github.com/the-turing-way/the-turing-way).
