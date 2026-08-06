@@ -10,7 +10,8 @@
 
 
 **💼 Experience**
--[rOpenSci](https://ropensci.org/es/): Mentee at Champions Program 2025-2026, where I'm developing an R package to systematize Software and Data Management Plans for Latin American researchers.
+
+- [rOpenSci](https://ropensci.org/es/): Mentee at Champions Program 2025-2026, where I'm developing an R package to systematize Software and Data Management Plans for Latin American researchers.
 - Metadocencia: In recent years I've worked in the [Accessibility, Training and Community Teams](https://www.metadocencia.org/en/equipo/), where my work has focused on ensuring and promoting the development of accessible settings that support everyone's equal participation in the Metadocencia community | I've also taught the [open source module](https://zenodo.org/records/14047967) of the [open science training](https://www.metadocencia.org/en/alta-ca/3-2024/) and I've contributed to the [Mapping of Communities, Organizations, and Open Science Resources in Latin America](https://www.metadocencia.org/en/proyecto/mapeo-comunidades/) project, of which I'm a co-author.
 - Open Life Science (OLS): Mentee at [Cohort 7](https://we-are-ols.org/posts/2023/07/17/ols-7-mapping-open-science-communities-LATAM/) and mentor at [Cohort 8](https://we-are-ols.org/openseeds/ols-8/projects-participants.html#creating-an-online-repository-for-open-collaboration-in-psychology).
 
