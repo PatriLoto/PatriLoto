@@ -17,11 +17,11 @@
 
 **👩‍🏫 Teaching Experience**
 - Universidad de la Cuenca del Plata (UCP): Teaching Assistant in the course of Programming Paradigms and Languages.
-- Faculty of Agrarian Sciences of the National University of the Northeast(UNNE): I've been teaching computational tools to students and researchers.
+- Faculty of Agrarian Sciences of the National University of the Northeast (UNNE): I've been teaching computational tools to students and researchers.
 - Data Science Educator: I teach data analysis with R to people with no programming background.
 
 **✨ Projects and Communities**
-- I'm coordinating the [RSE-Argentina community](https://rse-argentina.github.io/)
+- I co-founded and coordinate the [RSE-Argentina community](https://rse-argentina.github.io/)
 - 👩‍💼 Current Projects: [Virtual assistant in open science with a focus on Latin America](https://github.com/PatriLoto/asistente_virtual_CA) and [Template for a Software Management Plan](https://github.com/PatriLoto/PGSoftware)
 - 🔭 Previous Projects: [Science Core Bilingual Development](https://github.com/ScienceCore/climaterisk) and [Accessible Open Science](https://www.metadocencia.org/proyecto/nasa-spanish/)
 - 🌱 Previous Collaborations: I've collaborated with the organization of [LatinR - 2025](https://latinr.org/en/sobre/equipo/), and I was part of the Book Dash Planning Committee (2024 edition) organized by [The Turing Way](https://github.com/the-turing-way/the-turing-way).
@@ -32,8 +32,8 @@
 **📚 Conferences and Events**
 
 - March/26: I've participated in [SALA IA](https://lasala.ai/).
-- October/25: I organized with some friend organizations an event to celebrate the [International Research  software Engineeering Day](https://www.meetup.com/es/rladies-resistencia-corrientes/events/311341010/?eventOrigin=group_upcoming_events)
-- September/25: I attended the [RSECON25 - Research Software Engeneering Conference](https://rsecon25.society-rse.org/) and [R Dev Day](https://rsecon25.society-rse.org/r-dev-day-rsecon25/)
+- October/25: I organized with partner organizations an event to celebrate the [International Research  software Engineeering Day](https://www.meetup.com/es/rladies-resistencia-corrientes/events/311341010/?eventOrigin=group_upcoming_events)
+- September/25: I attended the [RSECON25 - Research Software Engineering Conference](https://rsecon25.society-rse.org/) and [R Dev Day](https://rsecon25.society-rse.org/r-dev-day-rsecon25/)
 - March/25: I participated in [Khipu(Latin American Meeting In Artificial Intelligence)](https://khipu.ai/) and the 4th edition of the [DISC Unconference](https://numfocus.medium.com/disc-unconference-2025-0d08bf918c95).
 
 **📫 How to reach me** [Bluesky](https://bsky.app/profile/patriloto.bsky.social) | [LinkedIn](https://www.linkedin.com/in/patricia-loto/)
