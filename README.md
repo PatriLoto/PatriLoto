@@ -34,7 +34,7 @@
 - March/26: I've participated in [SALA IA](https://lasala.ai/).
 - October/25: I organized with some friend organizations an event to celebrate the [International Research  software Engineeering Day](https://www.meetup.com/es/rladies-resistencia-corrientes/events/311341010/?eventOrigin=group_upcoming_events)
 - September/25: I attended the [RSECON25 - Research Software Engeneering Conference](https://rsecon25.society-rse.org/) and [R Dev Day](https://rsecon25.society-rse.org/r-dev-day-rsecon25/)
-- March/25: I participated in [Kiphu(Latin American Meeting In Artificial Intelligence)](https://khipu.ai/) and the 4th edition of the [DISC Unconference](https://numfocus.medium.com/disc-unconference-2025-0d08bf918c95).
+- March/25: I participated in [Khipu(Latin American Meeting In Artificial Intelligence)](https://khipu.ai/) and the 4th edition of the [DISC Unconference](https://numfocus.medium.com/disc-unconference-2025-0d08bf918c95).
 
 **📫 How to reach me** [Bluesky](https://bsky.app/profile/patriloto.bsky.social) | [LinkedIn](https://www.linkedin.com/in/patricia-loto/)
 
