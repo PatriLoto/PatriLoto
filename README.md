@@ -39,9 +39,9 @@
 **📫 How to reach me** [Bluesky](https://bsky.app/profile/patriloto.bsky.social) | [LinkedIn](https://www.linkedin.com/in/patricia-loto/)
 
 
-[**😎 My GitHub Stats** ]
+<!---**😎 My GitHub Stats** -->
 
-[![My github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=patriloto&count_private=true&show_icons=true&theme=radical)]
+<!--![My github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=patriloto&count_private=true&show_icons=true&theme=radical)]-->
 
 
 
