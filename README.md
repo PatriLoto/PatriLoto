@@ -30,7 +30,7 @@
 
 
 **📚 Conferences and Events**
-
+- September/26: I'm participating in [R Dev Sprint](https://contributor.r-project.org/r-project-sprint-2026/)).
 - March/26: I've participated in [SALA IA](https://lasala.ai/).
 - October/25: I organized with partner organizations an event to celebrate the [International Research  software Engineeering Day](https://www.meetup.com/es/rladies-resistencia-corrientes/events/311341010/?eventOrigin=group_upcoming_events)
 - September/25: I attended the [RSECON25 - Research Software Engineering Conference](https://rsecon25.society-rse.org/) and [R Dev Day](https://rsecon25.society-rse.org/r-dev-day-rsecon25/)
